@@ -21,7 +21,7 @@ Une fois le traitement terminé les données sont supprimées.
 
 __Concernant le contenu des messages envoyés :__
 Une fois le message reçu par le système interne, le contenu du message est stockée sur mémoire vive pendant 5 minutes puis automatiquement supprimé.
-Dans le cas d'un spam détecté par l'Antispam, les messages sont chiffrés et envoyer sur les serveurs principaux afin d'être stockées pendant 1 mois (30 jours), elles sont visibles par le staff Anti-Raid certifié (représenté par le rôle 👮🏻 - Agent Anti-Raid) et par le fondateur du serveur où s'es produit le spam. Le fondateur, peut provoquer la suppression de ces données avant l'échéance de 30 jours.
+Dans le cas d'un spam détecté par l'Antispam, les messages sont chiffrés et envoyer sur les serveurs principaux afin d'être stockées pendant 1 mois (30 jours), elles sont visibles par le staff Anti-Raid certifié (représenté par le rôle Agent Anti-Raid) et par le fondateur du serveur où s'est produit le spam. Le fondateur, peut provoquer la suppression de ces données avant l'échéance de 30 jours.
 
 ## Sécurité des données :
 Comme évoqué précédemment, le traitement sépare les données en groupe de deux :
